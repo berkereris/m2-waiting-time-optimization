@@ -18,7 +18,7 @@ This project presents a simulation-based optimization model to minimize passenge
 
 - `PRE-OPTIMIZATION.ipynb`: Preprocessing and demand analysis of İBB data  
 - `OPTIMIZATION.ipynb`: Full implementation of GA and simulation  
-- `7858822.pdf`: Final project report, includes methodology, figures, and results
+- `Report.pdf`: Final project report, includes methodology, figures, and results
 
 ---
 
@@ -57,8 +57,9 @@ This project presents a simulation-based optimization model to minimize passenge
 - **Berker Eriş** – Artificial Intelligence and Data Engineering, ITU  
 - **Enes Yemenli** – Artificial Intelligence and Data Engineering, ITU  
 
+> Contact: berkereris1@gmail.com
 > Contact: yemenli22@itu.edu.tr
-> Contact: erisb22@itu.edu.tr
+
 
 ---
 
